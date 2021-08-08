@@ -24,7 +24,7 @@
         "settings": {
           "logo": "shopify:\/\/shop_images\/dea_rud_Endelig_logo-04.png",
           "logo_width": 100,
-          "logo_position": "top-center",
+          "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
