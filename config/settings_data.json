@@ -39,10 +39,18 @@
               "heading": "Quick links",
               "menu": "footer"
             }
+          },
+          "f6f52b37-a1ea-46d5-bb49-2f7a9c6664ad": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact us",
+              "subtext": "<p>Need help?<\/p><p><strong>+45 23 62 94 95<\/strong><\/p><p><strong>dearudjewellery@gmail.com<\/strong><\/p><p>Monday - Thursday: 8.00 - 17.00<\/p><p>Friday: 8.00 - 16.00<\/p>"
+            }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "f6f52b37-a1ea-46d5-bb49-2f7a9c6664ad"
         ],
         "settings": {
           "color_scheme": "background-1",
@@ -50,7 +58,7 @@
           "newsletter_heading": "Sign up to our emails",
           "show_social": true,
           "enable_country_selector": true,
-          "enable_language_selector": true,
+          "enable_language_selector": false,
           "payment_enable": false
         }
       }
