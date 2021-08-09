@@ -83,13 +83,44 @@
         "layout": "image_first"
       }
     },
-    "162844284715f6c263": {
-      "type": "video",
+    "1628533272ba847a88": {
+      "type": "image-banner",
+      "blocks": {
+        "1628533272ba847a88-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JOIN OUR WORLD"
+          }
+        },
+        "1628533272ba847a88-1": {
+          "type": "text",
+          "settings": {
+            "text": "@dearudjewellery"
+          }
+        },
+        "1628533272ba847a88-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "GO TO INSTAGRAM",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1628533272ba847a88-0",
+        "1628533272ba847a88-1",
+        "1628533272ba847a88-2"
+      ],
       "settings": {
-        "heading": "",
-        "video_url": "youtube.com\/watch?v=MT1ZmPR55dg",
-        "description": "",
-        "full_width": true
+        "image": "shopify:\/\/shop_images\/forside1.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     }
   },
@@ -97,6 +128,6 @@
     "image_banner",
     "featured_products",
     "1628442621dcb11c0a",
-    "162844284715f6c263"
+    "1628533272ba847a88"
   ]
 }
