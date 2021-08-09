@@ -4,9 +4,79 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "1628514542b9c60e77": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628514542b9c60e77-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "1628514542b9c60e77-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dea Rud is a danish jewellery brand established in 2020 in Copenhagen, Denmark. Behind Dea Rud stands designer and founder Dea Markvad Adamsen, who invites you into her contemporary and bold universe. Dea Rud creates pieces that encourage individuals to embrace and explore their unique and personal style. We believe fashion is a playground, where you can let your creativity run free.<\/p>"
+          }
+        },
+        "1628514542b9c60e77-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1628514542b9c60e77-0",
+        "1628514542b9c60e77-1",
+        "1628514542b9c60e77-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1628514551840a3a0c": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628514551840a3a0c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": ""
+          }
+        },
+        "1628514551840a3a0c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dea Rud draws strength from the minimalist danish design with contemporary touches into statement jewellery. The pieces stand out in the crowd yet with a timeless design. Every collection is designed with the possibility to be stacked, mixed and styled with pieces across the entire jewellery universe. Since day one Dea Rud’s ambition has been to create an environment friendly company that connects sustainability and aesthetics. Therefore the jewellery is created from 100% recycled sterling silver and 14k gold brought to life by some of the most skilled craftsmen in the world.<\/p>"
+          }
+        },
+        "1628514551840a3a0c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1628514551840a3a0c-0",
+        "1628514551840a3a0c-1",
+        "1628514551840a3a0c-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1628514542b9c60e77",
+    "1628514551840a3a0c"
   ]
 }
