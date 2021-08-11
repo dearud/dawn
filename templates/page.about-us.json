@@ -40,15 +40,6 @@
         "layout": "image_first"
       }
     },
-    "1628710213771bd256": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
-      }
-    },
     "1628514551840a3a0c": {
       "type": "image-with-text",
       "blocks": {
@@ -78,7 +69,7 @@
         "1628514551840a3a0c-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/about-us2.jpg",
+        "image": "shopify:\/\/shop_images\/about-us-3.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -88,7 +79,6 @@
   "order": [
     "main",
     "1628514542b9c60e77",
-    "1628710213771bd256",
     "1628514551840a3a0c"
   ]
 }
