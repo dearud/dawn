@@ -83,44 +83,48 @@
         "layout": "image_first"
       }
     },
-    "1628533272ba847a88": {
-      "type": "image-banner",
+    "1628711217d9ab0487": {
+      "type": "rich-text",
       "blocks": {
-        "1628533272ba847a88-0": {
+        "1628711217d9ab0487-0": {
           "type": "heading",
           "settings": {
-            "heading": "JOIN OUR WORLD"
+            "heading": "JOIN OUR UNIVERSE",
+            "heading_size": "h1"
           }
         },
-        "1628533272ba847a88-1": {
+        "1628711217d9ab0487-1": {
           "type": "text",
           "settings": {
-            "text": "@dearudjewellery"
+            "text": "<p>@dearudjewellery<\/p>"
           }
         },
-        "1628533272ba847a88-2": {
-          "type": "buttons",
+        "1628711217d9ab0487-2": {
+          "type": "button",
           "settings": {
-            "button_label_1": "GO TO INSTAGRAM",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "GO TO INSTAGRAM",
+            "button_link": "https:\/\/www.instagram.com\/dearudjewellery\/",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "1628533272ba847a88-0",
-        "1628533272ba847a88-1",
-        "1628533272ba847a88-2"
+        "1628711217d9ab0487-0",
+        "1628711217d9ab0487-1",
+        "1628711217d9ab0487-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/forside1.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "accent-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "162871118219292253": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true
       }
     }
   },
@@ -128,6 +132,7 @@
     "image_banner",
     "featured_products",
     "1628442621dcb11c0a",
-    "1628533272ba847a88"
+    "1628711217d9ab0487",
+    "162871118219292253"
   ]
 }

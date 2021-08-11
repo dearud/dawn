@@ -1,6 +1,8 @@
 {
   "current": {
     "colors_accent_2": "#d1c9c2",
+    "social_facebook_link": "https:\/\/www.facebook.com\/dearudjewellery",
+    "social_instagram_link": "https:\/\/www.instagram.com\/dearudjewellery\/",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -24,8 +26,8 @@
         "type": "header",
         "settings": {
           "logo": "shopify:\/\/shop_images\/dea_rud_Endelig_logo-04.png",
-          "logo_width": 100,
-          "logo_position": "middle-left",
+          "logo_width": 160,
+          "logo_position": "top-center",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
