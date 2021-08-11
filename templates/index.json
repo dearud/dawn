@@ -83,15 +83,6 @@
         "layout": "image_first"
       }
     },
-    "1628712761a8604e31": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "video_url": "https:\/\/youtu.be\/XO37DtRgmYI",
-        "description": "",
-        "full_width": true
-      }
-    },
     "1628711217d9ab0487": {
       "type": "rich-text",
       "blocks": {
@@ -141,7 +132,6 @@
     "image_banner",
     "featured_products",
     "1628442621dcb11c0a",
-    "1628712761a8604e31",
     "1628711217d9ab0487",
     "1628712692fcafd1bc"
   ]
