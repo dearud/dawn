@@ -118,13 +118,13 @@
         "full_width": true
       }
     },
-    "162871118219292253": {
-      "type": "video",
+    "1628712692fcafd1bc": {
+      "type": "instafeed",
       "settings": {
-        "heading": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true
+        "heading_font": "helvetica_n4",
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
       }
     }
   },
@@ -133,6 +133,6 @@
     "featured_products",
     "1628442621dcb11c0a",
     "1628711217d9ab0487",
-    "162871118219292253"
+    "1628712692fcafd1bc"
   ]
 }
