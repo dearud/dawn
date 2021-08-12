@@ -83,13 +83,13 @@
         "layout": "image_first"
       }
     },
-    "1628714458c8313958": {
-      "type": "video",
+    "1628773599153b46d5": {
+      "type": "image-banner",
       "settings": {
-        "heading": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
       }
     },
     "1628711217d9ab0487": {
@@ -141,7 +141,7 @@
     "image_banner",
     "featured_products",
     "1628442621dcb11c0a",
-    "1628714458c8313958",
+    "1628773599153b46d5",
     "1628711217d9ab0487",
     "1628712692fcafd1bc"
   ]
