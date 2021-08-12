@@ -4,9 +4,20 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "162877333071550d73": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-08-11_kl._22.35.50.png",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "162877333071550d73"
   ]
 }
