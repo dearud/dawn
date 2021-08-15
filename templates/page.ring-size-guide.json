@@ -1,10 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "162904624843e7cb64": {
       "type": "image-with-text",
       "blocks": {
@@ -31,10 +26,15 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
     }
   },
   "order": [
-    "main",
-    "162904624843e7cb64"
+    "162904624843e7cb64",
+    "main"
   ]
 }
