@@ -4,9 +4,37 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "162904624843e7cb64": {
+      "type": "image-with-text",
+      "blocks": {
+        "162904624843e7cb64-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ring size guide"
+          }
+        },
+        "162904624843e7cb64-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>HOW TO MEASURE<\/strong><\/p><p>To find the perfect ring size can be tricky, because it depends on your preferences when it comes to the fit and which finger you want to wear it on. Use this size guide to find the perfect ring size for you.  <\/p><p><strong>1. <\/strong>Measure the circumference of your finger with a measuring tape or wrap a piece of paper around your finger and measure the length of it.<\/p><p><strong>2. <\/strong>If you have your own ring with the desired fit simply use a ruler to measure the inner diameter of the ring from edge to edge in mm.<\/p><p><strong>3. <\/strong>Use our size chart below:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "162904624843e7cb64-0",
+        "162904624843e7cb64-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ring-size-guide1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "162904624843e7cb64"
   ]
 }
