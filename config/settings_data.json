@@ -8,6 +8,8 @@
     "social_facebook_link": "https:\/\/www.facebook.com\/dearudjewellery",
     "social_instagram_link": "https:\/\/www.instagram.com\/dearudjewellery\/",
     "checkout_logo_image": "shopify:\/\/shop_images\/dea_rud_Endelig_logo-04.png",
+    "checkout_accent_color": "#445958",
+    "checkout_button_color": "#445958",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
