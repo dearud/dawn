@@ -46,14 +46,14 @@
           "f6f52b37-a1ea-46d5-bb49-2f7a9c6664ad": {
             "type": "text",
             "settings": {
-              "heading": "Contact us",
+              "heading": "CONTACT US",
               "subtext": "<p>Need help?<\/p><p>+45 23 62 94 95<\/p><p><strong>dearudjewellery@gmail.com<\/strong><\/p><p>Monday - Thursday: 09.00 - 16.00<\/p><p>Friday: 09.00 - 15.00<\/p>"
             }
           },
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "QUICK LINKS",
               "menu": "footer"
             }
           }
