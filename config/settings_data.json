@@ -1,10 +1,10 @@
 {
   "current": {
-    "colors_solid_button_labels": "#1a1b18",
-    "colors_accent_1": "#f4f4f4",
+    "colors_solid_button_labels": "#080808",
+    "colors_accent_1": "#f1f1f1",
     "colors_accent_2": "#f4f4f4",
     "colors_text": "#1A1B18",
-    "colors_outline_button_labels": "#1a1b18",
+    "colors_outline_button_labels": "#000000",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#FAF1E9",
     "type_header_font": "fjalla_one_n4",
