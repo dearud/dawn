@@ -1,9 +1,12 @@
 {
   "current": {
-    "colors_solid_button_labels": "#fff",
-    "colors_accent_1": "#959693",
-    "colors_accent_2": "#959693",
+    "colors_solid_button_labels": "#1a1b18",
+    "colors_accent_1": "#f4f4f4",
+    "colors_accent_2": "#f4f4f4",
     "colors_text": "#1A1B18",
+    "colors_outline_button_labels": "#1a1b18",
+    "colors_background_1": "#FFFFFF",
+    "colors_background_2": "#FAF1E9",
     "type_header_font": "fjalla_one_n4",
     "type_body_font": "avenir_next_n4",
     "social_facebook_link": "https:\/\/www.facebook.com\/dearudjewellery",
